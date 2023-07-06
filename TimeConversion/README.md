@@ -1,7 +1,5 @@
 # Time Conversion
 
-Given a time in 12-hour AM/PM format, you need to convert it to military (24-hour) time.
-
 ## Problem Description
 
 You are given a time in 12-hour AM/PM format, and you need to convert it to military (24-hour) time.
@@ -14,9 +12,9 @@ Implement a function `timeConversion` that takes the time in 12-hour format as i
 
 ## Function Description
 
-Complete the timeConversion function in the editor below. It should return a new string representing the input time in 24 hour format.
+Complete the `timeConversion` function in the editor below. It should return a new string representing the input time in 24 hour format.
 
-### timeConversion has the following parameter(s):
+### `timeConversion` has the following parameter(s):
 - **string s**: a time in 12 hour format
 
 ### Returns

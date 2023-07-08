@@ -18,4 +18,6 @@ Sharing this information has several advantages:
 
 So, that's why I've decided to share my HackerRank solutions on GitHub. I hope this clarifies my reasoning and perhaps even sparks the desire in you to do the same. Let's keep learning, growing, and sharing our knowledge together!
 
+PS.: These challenges are available free for training you on kits. But the main one I can't share here due respect to the website 😊
+
 Happy coding! 🚀
